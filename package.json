@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ryzokuken/sheograth/issues"
   },
-  "homepage": "https://github.com/ryzokuken/sheograth#readme"
+  "homepage": "https://github.com/ryzokuken/sheograth#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
